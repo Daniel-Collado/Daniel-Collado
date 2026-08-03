@@ -1,5 +1,5 @@
-¡Hola! 
-Me llamo Daniel Collado y soy de La Plata, provincia de Buenos Aires.
+¡Hola! <br>
+Me llamo Daniel Collado y soy de La Plata, provincia de Buenos Aires.<br>
 Desarrollo aplicaciones y sitios web combinando lógica sólida de backend con interfaces de usuario intuitivas. Mi foco está en escribir código mantenible, optimizar el rendimiento y crear experiencias digitales que funcionen de forma fluida y clara para personas e instituciones.
 
 Llevo proyectos desde la arquitectura inicial y el diseño visual hasta la integración y el despliegue en producción.
