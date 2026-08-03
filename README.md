@@ -4,11 +4,11 @@ Desarrollo aplicaciones y sitios web combinando lógica sólida de backend con i
 
 Llevo proyectos desde la arquitectura inicial y el diseño visual hasta la integración y el despliegue en producción.
 
->### Tecnologías y herramientas
+### Tecnologías y herramientas
 
->* **Frontend & UX/UI:** React, Next.js, JavaScript (ES6+), HTML5, CSS3/Tailwind, diseño centrado en el usuario e interfaces adaptables.
->* **Backend & Arquitectura:** Node.js, Express, Python, API RESTful, autenticación y lógica de negocio.
->* **Bases de datos:** MongoDB, PostgreSQL, SQL, Firebase.
->* **Flujo de trabajo:** Git, GitHub, testing, optimización de carga y despliegues en la nube.
+* **Frontend & UX/UI:** React, Next.js, JavaScript (ES6+), HTML5, CSS3/Tailwind, diseño centrado en el usuario e interfaces adaptables.
+* **Backend & Arquitectura:** Node.js, Express, Python, API RESTful, autenticación y lógica de negocio.
+* **Bases de datos:** MongoDB, PostgreSQL, SQL, Firebase.
+* **Flujo de trabajo:** Git, GitHub, testing, optimización de carga y despliegues en la nube.
 
 Siempre buscando el equilibrio entre una arquitectura bien resuelta por dentro y una experiencia simple y eficiente por fuera.
