@@ -1,16 +1,13 @@
-## Hi there 👋
+¡Hola! Me llamo Daniel Collado y soy de La Plata, provincia de Buenos Aires.
+Desarrollo aplicaciones y sitios web combinando lógica sólida de backend con interfaces de usuario intuitivas. Mi foco está en escribir código mantenible, optimizar el rendimiento y crear experiencias digitales que funcionen de forma fluida y clara para personas e instituciones.
 
-<!--
-**Daniel-Collado/Daniel-Collado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Llevo proyectos desde la arquitectura inicial y el diseño visual hasta la integración y el despliegue en producción.
 
-Here are some ideas to get you started:
+### Tecnologías y herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Frontend & UX/UI:** React, Next.js, JavaScript (ES6+), HTML5, CSS3/Tailwind, diseño centrado en el usuario e interfaces adaptables.
+* **Backend & Arquitectura:** Node.js, Express, Python, API RESTful, autenticación y lógica de negocio.
+* **Bases de datos:** MongoDB, PostgreSQL, SQL, Firebase.
+* **Flujo de trabajo:** Git, GitHub, testing, optimización de carga y despliegues en la nube.
+
+Siempre buscando el equilibrio entre una arquitectura bien resuelta por dentro y una experiencia simple y eficiente por fuera.
